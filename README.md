@@ -51,10 +51,6 @@ This project was developed out of personal passion for Android ROM porting and a
 ## Live Application
 
 - [Google Play Store Link]([https://play.google.com/store/apps/details?id=YOUR_APP_ID](https://play.google.com/store/apps/details?id=com.thechamp.portedroms.ported_roms&hl=en_US&gl=US))  
-*(Replace with actual live link)*
 
 ---
 
-## Note
-
-Due to licensing and pr
